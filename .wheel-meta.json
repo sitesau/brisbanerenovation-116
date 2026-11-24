@@ -1,0 +1,22 @@
+{
+  "wheel_id": 956,
+  "structure": "umbrella",
+  "slug": "brisbanerenovation-116",
+  "project": "renovation-builders-brisbane-warranty-63fe60917aaa54249c6a9f18f",
+  "parent_t1_ref": "brisbanerenovation-161",
+  "node_role": "feeder",
+  "money_target": "brisbanerenovation.com.au",
+  "primary_kw": "renovation builders brisbane warranty",
+  "intended_url": "https://aumedia.neocities.org/renovation-builders-brisbane-warranty-63fe60917aaa54249c6a9f18f/",
+  "tier": "T2",
+  "writeback_nonce": "287ebcd78d4cd73d",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/brisbanerenovation-161/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
